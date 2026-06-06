@@ -1,4 +1,5 @@
 # Software Testing Course 
+=> Link of the course <a href="https://www.youtube.com/watch?v=rQZ-NbN3RLA&list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4">Software Testing Course in Arabic</a>
 
 ---
 
